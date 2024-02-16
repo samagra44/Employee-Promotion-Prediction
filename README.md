@@ -50,11 +50,11 @@ The dataset used for this project contains the following columns:
 - **Promotion by Department:**
   - Sales and Marketing department has a high chance of promotion.
 
-- **Random Forest Classifier Accuracy: 0.9429822560780915**
-- **KNN Classifier Accuracy: 0.9345436299776491**
-- **SVC Classifier Accuracy: 0.9142453131414496**
-- **Decision Tree Classifier Accuracy: 0.9429822560780945**
-- **Logistic Regression Classifier Accuracy: 0.9175523422889204**
+- **Random Forest Classifier Accuracy: 0.94%**
+- **K-Nearest Neighbors (KNN) Classifier Accuracy: 0.93%**
+- **Support Vector Classifier (SVC) Accuracy: 0.91%**
+- **Decision Tree Classifier Accuracy: 0.94%**
+- **Logistic Regression Accuracy: 0.91%**
 
 ## Dependencies
 
@@ -67,3 +67,4 @@ Ensure you have the following dependencies installed:
 ## References
 
 - [Scikit-learn documentation](https://scikit-learn.org/stable/documentation.html) for machine learning models and preprocessing.
+- [Streamlit Documentation](https://docs.streamlit.io/). for web application.
