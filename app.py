@@ -4,7 +4,7 @@ import pickle
 
 
 # Load the pre-trained model
-with open('Pickle File\emp_promotion_prediction.pkl', 'rb') as file:
+with open('emp_promotion_prediction.pkl', 'rb') as file:
     rfc_random = pickle.load(file)
 
 st.set_page_config(
