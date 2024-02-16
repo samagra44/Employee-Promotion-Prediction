@@ -62,6 +62,7 @@ Ensure you have the following dependencies installed:
 
 - Python 3.x
 - Required Python packages (specified in `requirements.txt`). Install them using: `pip install -r requirements.txt`.
+- Run command ```streamlit run app.py```
 
 ## References
 
