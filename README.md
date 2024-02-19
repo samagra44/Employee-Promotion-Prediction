@@ -50,6 +50,8 @@ The dataset used for this project contains the following columns:
 - **Promotion by Department:**
   - Sales and Marketing department has a high chance of promotion.
 
+## Machine Learning Models:
+
 - **Random Forest Classifier Accuracy: 0.94%**
 - **K-Nearest Neighbors (KNN) Classifier Accuracy: 0.93%**
 - **Support Vector Classifier (SVC) Accuracy: 0.91%**
